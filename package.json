@@ -1,0 +1,17 @@
+{
+  "name": "projetoconclusaoweb",
+  "private": true, 
+  "version": "1.0.0",
+  "description": "Projeto base para uso dos alunos no projeto de conclusão da unidade curricular Webdesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "teste",
+    "base"
+  ],
+  "author": "Fausto Rodrigo Toloi",
+  "license": "ISC"
+}
