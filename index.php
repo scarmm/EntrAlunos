@@ -2,9 +2,9 @@
 include __DIR__ . "/header.php";
 ?>
 
-<body>
-<h1>bosta</h1>
-</body>
+
+conteudor
+
 
 <?php
 include __DIR__ . "/footer.php";
