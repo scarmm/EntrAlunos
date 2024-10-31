@@ -1,3 +1,14 @@
 .btn-primary{
     background-color: #041F3E;
+    border: none;
+    &:hover{
+        background-color: #03152a;
+    }
+    width: 300px;
+}
+.mb-3{
+    width: 500px;
+}
+.form_login{
+    justify-items: center;
 }

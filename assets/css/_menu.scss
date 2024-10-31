@@ -1,6 +1,5 @@
 .bg-menu{
     background-color: #041F3E;
-    justify-content: space-evenly;
 }
 
 .nav-link{
@@ -8,4 +7,7 @@
     &:hover{
     color: rgb(208, 208, 208);
 }
+}
+.container{
+    justify-items: space-evenly;
 }

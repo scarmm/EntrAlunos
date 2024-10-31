@@ -1,6 +1,5 @@
 .bg-menu {
   background-color: #041F3E;
-  justify-content: space-evenly;
 }
 
 .nav-link {
@@ -10,6 +9,23 @@
   color: rgb(208, 208, 208);
 }
 
+.container {
+  justify-items: space-evenly;
+}
+
 .btn-primary {
   background-color: #041F3E;
+  border: none;
+  width: 300px;
+}
+.btn-primary:hover {
+  background-color: #03152a;
+}
+
+.mb-3 {
+  width: 500px;
+}
+
+.form_login {
+  justify-items: center;
 }/*# sourceMappingURL=styles.css.map */
