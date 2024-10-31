@@ -5,7 +5,7 @@ include __DIR__ . "/header.php";
 
 <body>
     <title>Inicial</title>
-    <img src="assets/images/inicialEntraluno.png">
+    <div class="fundo" ></div>   
 </body>
 
 
