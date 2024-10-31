@@ -1,3 +1,11 @@
 .bg-menu{
-    background-color: aqua;
+    background-color: #041F3E;
+    justify-content: space-evenly;
+}
+
+.nav-link{
+    color: white;
+    &:hover{
+    color: rgb(208, 208, 208);
+}
 }

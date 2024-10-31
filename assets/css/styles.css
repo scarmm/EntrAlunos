@@ -1,3 +1,15 @@
 .bg-menu {
-  background-color: aqua;
+  background-color: #041F3E;
+  justify-content: space-evenly;
+}
+
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: rgb(208, 208, 208);
+}
+
+.btn-primary {
+  background-color: #041F3E;
 }/*# sourceMappingURL=styles.css.map */
