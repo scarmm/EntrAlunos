@@ -9,8 +9,12 @@
   color: rgb(208, 208, 208);
 }
 
+.navbar {
+  padding-inline: 30px;
+}
+
 .container {
-  justify-items: space-evenly;
+  padding-inline: 360px;
 }
 
 .btn-primary {
