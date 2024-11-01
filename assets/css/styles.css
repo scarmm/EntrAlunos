@@ -16,6 +16,8 @@
 
 .logoMenu {
   float: left;
+  width: 70px;
+  margin-left: 20px;
 }
 
 .btn-primary {
