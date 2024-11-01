@@ -10,7 +10,7 @@
 }
 
 .container {
-  padding-inline: 360px;
+  padding-inline: 390px;
 }
 
 .btn-primary {
@@ -28,4 +28,13 @@
 
 .form_login {
   justify-items: center;
+}
+
+.logoEntrA {
+  margin-left: 775px;
+  margin-top: 30px;
+}
+
+.fundo {
+  background-color: rgb(35, 76, 123);
 }/*# sourceMappingURL=styles.css.map */
