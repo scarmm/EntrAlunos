@@ -3,6 +3,7 @@
 }
 
 .nav-link {
+  font-size: 15px;
   color: white;
 }
 .nav-link:hover {
@@ -11,6 +12,10 @@
 
 .container {
   padding-inline: 390px;
+}
+
+.logoMenu {
+  float: left;
 }
 
 .btn-primary {

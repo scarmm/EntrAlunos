@@ -3,6 +3,7 @@
 }
 
 .nav-link{
+    font-size:15px;
     color: white;
     &:hover{
     color: rgb(208, 208, 208);
@@ -10,6 +11,10 @@
 }
 .container{
     padding-inline: 390px;
+}
+
+.logoMenu {
+    float:left;
 }
 
 

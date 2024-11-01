@@ -1,4 +1,5 @@
 <nav class="navbar navbar-expand-lg bg-menu">
+<a href="index.php"><img src="assets/images/logoMenu.png" class="logoMenu"></a>
   <div class="container">
     <a class="navbar-brand" href="#"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
