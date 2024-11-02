@@ -44,4 +44,23 @@
 
 .fundo {
   background-color: rgb(35, 76, 123);
+}
+
+.caixaCadastro {
+  float: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.titulos {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.barra {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(175, 175, 175);
 }/*# sourceMappingURL=styles.css.map */

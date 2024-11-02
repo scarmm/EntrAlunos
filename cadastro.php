@@ -5,8 +5,9 @@ include __DIR__ . "/header.php";
 
 <body>
     <title>Cadastro</title>
-    <h1>Cadastro de Usuário</h1>
-    <img src="assets/images/logoEntraluno.png" class="logoEntrA">
+    <div class="caixaCadastro">
+    <h1 class="titulos">Cadastro de Usuário</h1>
+    <div class="barra"></div>
     <form action="" class="form_login">
     <div class="mb-3">
         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
@@ -15,7 +16,8 @@ include __DIR__ . "/header.php";
     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha">
   </div>
   <button type="submit" class="btn btn-primary">Entrar</button>
-    </form>   
+    </form>
+    </div> 
 </body>
 
 
