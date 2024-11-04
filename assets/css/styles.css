@@ -22,15 +22,17 @@
 
 .btn-primary {
   background-color: #041F3E;
+  margin-top: 20px;
   border: none;
-  width: 300px;
+  width: 400px;
 }
 .btn-primary:hover {
   background-color: #03152a;
 }
 
 .mb-3 {
-  width: 500px;
+  width: 600px;
+  margin-top: 30px;
 }
 
 .form_login {
@@ -38,8 +40,27 @@
 }
 
 .logoEntrA {
-  margin-left: 775px;
+  margin-left: 850px;
+  margin-top: 50px;
+}
+
+.senha_botao {
   margin-top: 30px;
+  color: rgb(208, 208, 208);
+}
+.senha_botao:hover {
+  color: rgb(0, 0, 0);
+}
+
+.btn-secondary {
+  color: rgb(0, 0, 0);
+  background-color: #EBE6DA;
+  margin-top: 60px;
+  border: none;
+  width: 400px;
+}
+.btn-secondary:hover {
+  background-color: #b6af9f;
 }
 
 .fundo {
