@@ -1,9 +1,9 @@
 .btn-primary{
-    background-color: #041F3E;
+    background-color: $cor_botao_01;
     margin-top: 20px;
     border: none;
     &:hover{
-        background-color: #03152a;
+        background-color: $cor_botao_02;
     }
     width: 400px;
 }

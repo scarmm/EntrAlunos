@@ -1,6 +1,6 @@
 {
   "name": "projetoconclusaoweb",
-  "private": true, 
+  "private": false, 
   "version": "1.0.0",
   "description": "Projeto base para uso dos alunos no projeto de conclusão da unidade curricular Webdesign",
   "main": "index.js",
