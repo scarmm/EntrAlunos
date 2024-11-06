@@ -20,6 +20,14 @@
   margin-left: 20px;
 }
 
+.botao_login {
+  padding-inline: 10px;
+}
+
+.text_align_center {
+  text-align: center;
+}
+
 .btn-primary {
   background-color: #041F3E;
   margin-top: 20px;
@@ -61,6 +69,10 @@
 }
 .btn-secondary:hover {
   background-color: #b6af9f;
+}
+
+.text_align_right {
+  text-align: end;
 }
 
 .fundo {

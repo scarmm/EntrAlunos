@@ -6,11 +6,11 @@
     font-size:15px;
     color: white;
     &:hover{
-    color: rgb(208, 208, 208);
+    color: $cor_botao_link;
 }
 }
 .container{
-    padding-inline: 390px;
+    padding-inline: 390px; // valor original: 390
 }
 
 .logoMenu {
@@ -19,6 +19,13 @@
     margin-left: 20px;
 }
 
+.botao_login {
+    padding-inline: 10px
+}
+
+.text_align_center {
+    text-align: center;
+}
 
     
 

@@ -14,7 +14,7 @@
           <a class="nav-link" href="#">Lista de Cadastros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="cadastro.php">Novo Cadastro</a>
+          <a class="nav-link" href="#">Novo Cadastro</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Relatórios</a>
@@ -22,4 +22,9 @@
       </ul>
     </div>
   </div>
+  <div class="botao_login">
+    <div class="text_align_right">
+      <li class="nav-item"><a class="nav-link" href="cadastro.php">Log-in</a></li>
+    </div>
+  </div>  
 </nav>

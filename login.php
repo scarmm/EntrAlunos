@@ -2,7 +2,7 @@
 include __DIR__ . "/header.php";
 ?>
 
-<body>
+
     <title>Login</title>
     <img src="assets/images/logoEntraluno.png" class="logoEntrA">
     <form action="" class="form_login">
@@ -18,7 +18,7 @@ include __DIR__ . "/header.php";
   <br>
   <button class="btn btn-secondary">Criar Nova Conta</button>
     </form>
-</body>
+
 
 <?php
 include __DIR__ . "/footer.php";
