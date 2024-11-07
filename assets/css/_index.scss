@@ -1,11 +1,17 @@
 .fundo{
-<<<<<<< HEAD
     background-color: $cor_principal;
 }
-=======
-    
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(35,76,123,1) 55%, rgba(35,76,123,1) 100%);
+
+.img_fluid {
+    width: 100%; 
+    height: auto;
 }
 
->>>>>>> 53d573bb319ff7f53fb20ecaca49e066f77e2f30
+.text_color {
+    color: $cor_inovacao;
+}
+
+.logo_entraluno{
+    width: 100px;
+    height: 100px;
+}

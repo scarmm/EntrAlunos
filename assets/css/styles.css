@@ -10,6 +10,10 @@
   color: rgb(208, 208, 208);
 }
 
+.container {
+  padding-inline: 390px;
+}
+
 .logoMenu {
   float: left;
   width: 70px;
@@ -72,8 +76,21 @@
 }
 
 .fundo {
-  background: rgb(255, 255, 255);
-  background: linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(35, 76, 123) 55%, rgb(35, 76, 123) 100%);
+  background-color: rgb(35, 76, 123);
+}
+
+.img_fluid {
+  width: 100%;
+  height: auto;
+}
+
+.text_color {
+  color: blue;
+}
+
+.logo_entraluno {
+  width: 100px;
+  height: 100px;
 }
 
 .caixaCadastro {
