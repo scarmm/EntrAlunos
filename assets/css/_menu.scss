@@ -1,17 +1,13 @@
 .bg-menu{
-    background-color: $cor_botao_01;
+    background-color: #041F3E;
 }
 
 .nav-link{
     font-size:15px;
     color: white;
     &:hover{
-    color: $cor_botao_link;
+    color: rgb(208, 208, 208);
 }
-}
-
-.container{
-    padding-inline: 390px;
 }
 
 
@@ -19,14 +15,6 @@
     float:left;
     width: 70px;
     margin-left: 20px;
-}
-
-.botao_login {
-    padding-inline: 10px
-}
-
-.text_align_center {
-    text-align: center;
 }
 
     

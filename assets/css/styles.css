@@ -10,22 +10,10 @@
   color: rgb(208, 208, 208);
 }
 
-.container {
-  padding-inline: 390px;
-}
-
 .logoMenu {
   float: left;
   width: 70px;
   margin-left: 20px;
-}
-
-.botao_login {
-  padding-inline: 10px;
-}
-
-.text_align_center {
-  text-align: center;
 }
 
 .btn-primary {

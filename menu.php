@@ -16,12 +16,12 @@
           <a class="nav-link" href="#">Lista de Cadastros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="login.php">Novo Cadastro</a>
+          <a class="nav-link" href="cadastro.php">Novo Cadastro</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Relatórios</a>
         </li>
       </ul>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>
