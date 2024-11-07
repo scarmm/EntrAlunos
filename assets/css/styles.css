@@ -85,7 +85,7 @@
 }
 
 .text_color {
-  color: rgb(79, 79, 185);
+  color: rgb(57, 57, 185);
 }
 
 .logo_entraluno {
@@ -98,7 +98,7 @@
 }
 
 .container_index {
-  max-width: 500px;
+  max-width: 800px;
   border-width: 1px;
   margin-top: 100px;
   margin-left: 150px;
@@ -106,7 +106,7 @@
 }
 
 .font_size_index {
-  font-size: 55px;
+  font-size: 80px;
 }
 
 .caixaCadastro {
