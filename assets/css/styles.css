@@ -115,3 +115,7 @@
   padding-bottom: 20px;
   background-color: rgb(175, 175, 175);
 }/*# sourceMappingURL=styles.css.map */
+
+.body{
+  overflow: hidden;
+}
