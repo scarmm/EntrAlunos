@@ -2,12 +2,10 @@
 include __DIR__ . "/header.php";
 ?>
 
-
-<body>
+<div class="cadastro-cadastro">
     <title>Cadastro</title>
     <div class="caixaCadastro">
       <h1 class="titulos">Cadastro de Usuário</h1>
-      <div class="barra"></div>
       <form action="" class="form_login">
         <div class="mb-3">
           <input type="text" class="form-control" id="nome" aria-describedby="emailHelp" placeholder="Nome Completo" required>
@@ -21,8 +19,7 @@ include __DIR__ . "/header.php";
         <button type="submit" class="btn btn-primary">Cadastrar</button>
       </form>
     </div> 
-</body>
-
+    </div>
 
 <?php
 include __DIR__ . "/footer.php";

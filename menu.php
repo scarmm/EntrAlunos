@@ -19,7 +19,7 @@
           <a class="nav-link" href="cadastro.php">Novo Cadastro</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Relatórios</a>
+          <a class="nav-link" href="relatorio.php">Relatórios</a>
         </li>
       </ul>
     </div>

@@ -1,10 +1,12 @@
 .bg-menu{
     background-color: #041F3E;
+
 }
 
 .nav-link{
     font-size:15px;
     color: white;
+    padding: 10px 30px 10px 30px;
     &:hover{
     color: rgb(208, 208, 208);
 }
@@ -14,8 +16,21 @@
 .logoMenu {
     float:left;
     width: 70px;
-    margin-left: 20px;
+    margin-right: 100px;
 }
 
+#navbarNav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-item{
+    margin: 10px 20px 10px 20px;
+}
+
+.navbar{
+    margin: 10px;
     
+}
+
 
