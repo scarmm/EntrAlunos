@@ -10,7 +10,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Histórico de Entradas</a>
+          <a class="nav-link" href="historico.php">Histórico de Entradas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Lista de Cadastros</a>

@@ -231,4 +231,14 @@
 .container2 .filter-box .filters .buttons .btn.pesquisar {
   background-color: #002855;
   color: #fff;
+}
+
+.container_historico {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.historico {
+  justify-items: center;
 }/*# sourceMappingURL=styles.css.map */
