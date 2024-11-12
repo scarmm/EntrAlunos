@@ -99,6 +99,8 @@ input[type=text] {
 
 .fundo {
   background-color: rgb(35, 76, 123);
+  margin-top: -10px;
+  height: 800px;
 }
 
 .img_fluid {
@@ -107,12 +109,19 @@ input[type=text] {
 }
 
 .text_color {
-  color: rgb(57, 57, 185);
+  color: rgb(35, 76, 123);
 }
 
 .logo_entraluno {
-  width: 150px;
-  height: 150px;
+  width: 255px;
+  height: 255px;
+}
+
+.img_index {
+  position: absolute;
+  margin-left: 850px;
+  margin-top: 3px;
+  width: 800px;
 }
 
 .text_align_left {
@@ -121,6 +130,7 @@ input[type=text] {
 
 .container_index {
   max-width: 800px;
+  height: 400px;
   border-width: 1px;
   margin-top: 100px;
   margin-left: 150px;
