@@ -17,7 +17,7 @@ include __DIR__ . "/header.php";
     <br>
     <h6 class="senha_botao">Esqueci Minha Senha</h6>
     <br>
-    <button class="btn btn-secondary">Criar Nova Conta</button>
+    <button class="btn btn-secondary" href="historico.php">Criar Nova Conta</button>
   </form>
 </div>
 
