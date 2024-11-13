@@ -13,7 +13,7 @@
           <a class="nav-link" href="historico.php">Histórico de Entradas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Lista de Cadastros</a>
+          <a class="nav-link" href="lista.php">Lista de Cadastros</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="cadastro.php">Novo Cadastro</a>

@@ -3,7 +3,7 @@
 $title = "Inicial";
 include __DIR__ . "/header.php";
 ?>
-
+<div class="conteudo-lista">
 <div class="container-fluid">
     <div class="row">
         
@@ -22,6 +22,7 @@ include __DIR__ . "/header.php";
         </div>
     
     </div>
+</div>
 </div>
 
 <?php
