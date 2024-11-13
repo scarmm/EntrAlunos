@@ -312,7 +312,6 @@ h1 {
   color: #fff;
 }
 
-<<<<<<< HEAD
 .container_historico {
   display: flex;
   justify-content: center;
@@ -350,7 +349,8 @@ h1 {
   border: 1px solid #ccc;
   border-radius: 4px;
   margin-bottom: 15px;
-=======
+}
+
 .container5 {
   width: 90%;
   max-width: 600px;
@@ -448,5 +448,4 @@ h1 {
 }
 .pagination .pagination-controls button:hover {
   background-color: #bbb;
->>>>>>> b694a8e233babf81538939219d4d0713579a5fd9
 }/*# sourceMappingURL=styles.css.map */
