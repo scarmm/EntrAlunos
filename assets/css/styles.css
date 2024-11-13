@@ -319,4 +319,33 @@ h1 {
 
 .historico {
   justify-items: center;
+}
+
+.caixa_historico {
+  float: center;
+  margin-top: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 1800px;
+  padding: 20px;
+}
+
+.input_historico {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+  margin-left: 20px;
+}
+.input_historico label {
+  color: #969696;
+  margin-bottom: 5px;
+}
+.input_historico input[type=text],
+.input_historico input[type=email],
+.input_historico input[type=password] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 15px;
 }/*# sourceMappingURL=styles.css.map */
