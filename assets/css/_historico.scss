@@ -1,43 +1,56 @@
 .container_historico {
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-
+  display: flex;
+  justify-content: center;
+  padding: 20px;
 }
 
-
-
 .historico {
-    justify-items: center;
+  justify-items: center;
 }
 
 .caixa_historico {
-    float:center;
-    margin-top: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    width: 1800px;
-    padding: 20px;
+  float:center;
+  margin-top: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 1800px;
+  padding: 20px;
 }
 
 .input_historico {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    width: 300px;
-    margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+  margin-left: 20px;
   
-    label {
-      color: #969696;
-      margin-bottom: 5px;
-    }
-  
-    input[type="text"],
-    input[type="email"],
-    input[type="password"] {
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      margin-bottom: 15px;
-    }
+  label {
+    color: #969696;
+    margin-bottom: 5px;
   }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 15px;
+  }
+}
+
+.tabela {
+  table, th, td {
+    border-collapse: collapse;
+    border: 1px solid;
+    width: 100%;
+    text-align: left;
+  }
+
+  td, th {
+    padding: 15px;
+    text-align: left;
+  }
+}
+
+
