@@ -2,25 +2,52 @@
 include __DIR__ . "/header.php";
 ?>
 
-<div class="cadastro-cadastro">
-    <title>Cadastro</title>
-    <div class="caixaCadastro">
-      <h1 class="titulos">Cadastro de Usuário</h1>
-      <form action="" class="form_login">
-        <div class="mb-3">
-          <input type="text" class="form-control" id="nome" aria-describedby="emailHelp" placeholder="Nome Completo" required>
-        </div>
-        <div class="mb-3">
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email" required>
-        </div>
-        <div class="mb-3">
-          <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha" required>
-        </div>
-        <button type="submit" class="btn btn-primary">Cadastrar</button>
-      </form>
-    </div> 
+<div class="conteudo-cadastro">
+<div class="container3">
+    <h1>Cadastro de Usuário</h1>
+    
+    <form class="form-cadastro">
+      <label for="funcionario">Funcionário</label>
+      <input type="text" id="funcionario" placeholder="Nome do funcionário">
+
+      <label for="email">Email</label>
+      <input type="email" id="email" placeholder="Email do funcionário">
+
+      <label for="senha">Senha</label>
+      <input type="password" id="senha" placeholder="Senha">
+      
+      <div class="button-group">
+        <button type="button" class="btn add">+</button>
+        <button type="submit" class="btn save">💾</button>
+        <button type="reset" class="btn delete">✖️</button>
+      </div>
+    </form>
+
+    <div class="search-bar">
+      <label for="search">Pesquisar por funcionário</label>
+      <input type="text" id="search" placeholder="Pesquisar">
     </div>
 
+    <table class="user-table">
+      <thead>
+        <tr>
+          <th>Nome do Aluno/Funcionário</th>
+          <th>Email</th>
+          <th>Senha</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Exemplo de linhas de dados -->
+        <tr>
+          <td>João Silva</td>
+          <td>joao@email.com</td>
+          <td>********</td>
+        </tr>
+        <!-- Mais linhas -->
+      </tbody>
+    </table>
+  </div>
+  </div>
 <?php
 include __DIR__ . "/footer.php";
 ?>

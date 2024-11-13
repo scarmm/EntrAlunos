@@ -25,6 +25,15 @@
         color: rgb(0, 0, 0);
     }
 }
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 .btn-secondary{
     color: rgb(0, 0, 0);
     background-color: #EBE6DA;
