@@ -4,6 +4,7 @@ include __DIR__ . "/header.php";
 
 
     <title>Login</title>
+    <div class="conteudo-lista">
     <img src="assets/images/logoEntraluno.png" class="logoEntrA">
     <form action="" class="form_login">
     <div class="mb-3">
@@ -18,6 +19,7 @@ include __DIR__ . "/header.php";
   <br>
   <button class="btn btn-secondary">Criar Nova Conta</button>
     </form>
+  </div>
 
 
 <?php
