@@ -35,8 +35,7 @@ include __DIR__ . "/header.php";
     <div class="col-md-12">
       <div class="container_historico">
         <table>
-        
-         <thead>
+          <thead>
            <tr>
              <th>Cod.</th>
              <th>Nome do Aluno/Funcionário</th>
@@ -44,9 +43,9 @@ include __DIR__ . "/header.php";
              <th>Horário da Entrada</th>
              <th>Horário da Saída</th>
            </tr>
-         </thead>
+          </thead>
         
-         <tbody>
+          <tbody>
            <tr>
              <td>01</td>
              <td>DAVI CÉSAR PEDRO FÁRIAS</td>
@@ -68,10 +67,26 @@ include __DIR__ . "/header.php";
              <td>19:01</td>
              <td>22:03</td>
            </tr>
-           </tbody>
-      
+           <tr>
+              <td>04</td>
+           </tr>
+           <tr>
+              <td>05</td>
+           </tr>
+           <tr>
+              <td>06</td>
+           </tr>
+           <tr>
+              <td>07</td>
+           </tr>
+           <tr>
+              <td>08</td>
+           </tr>
+           <tr>
+              <td>09</td>
+           </tr>
+          </tbody>
         </table>
-        </div>
       </div>
     </div>
   </div>
