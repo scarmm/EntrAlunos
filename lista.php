@@ -2,7 +2,7 @@
 include __DIR__ . "/header.php";
 ?>
 
-<div class="conteudo-lista">
+<div class="conteudo-lista1">
     <div class="container5">
         <h1>Usuários</h1>
         <div class="search-bar">

@@ -6,6 +6,15 @@
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
+
+  .conteudo-lista1{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    padding-top: 12%;
+  }
+
   .conteudo-lista{
     padding-top: 5%;
   }
